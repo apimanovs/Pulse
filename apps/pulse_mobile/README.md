@@ -1,4 +1,4 @@
-# pulse_web
+# pulse_mobile
 
 A new Flutter project.
 
